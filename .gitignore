@@ -1,0 +1,13 @@
+# Python venv
+envi/
+__pycache__/
+
+# Build result
+build/
+dist/
+
+# Database
+*.db
+
+# Python cache
+*.pyc
